@@ -1,0 +1,118 @@
+{
+  "title": "مستندات ری‌اکت",
+  "path": "/",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "شروع کنید"
+    },
+    {
+      "title": "شروع سریع",
+      "path": "/learn"
+    },
+    {
+      "title": "نصب",
+      "path": "/learn/installation"
+    },
+    {
+      "title": "کامپایلر ری‌اکت",
+      "path": "/learn/react-compiler"
+    },
+    {
+      "title": "راه‌اندازی",
+      "path": "/learn/setup"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "یادگیری ری‌اکت"
+    },
+    {
+      "title": "توصیف رابط کاربری",
+      "path": "/learn/describing-the-ui"
+    },
+    {
+      "title": "افزودن تعامل",
+      "path": "/learn/adding-interactivity"
+    },
+    {
+      "title": "مدیریت حالت",
+      "path": "/learn/managing-state"
+    },
+    {
+      "title": "راه‌های فرار",
+      "path": "/learn/escape-hatches"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "API ری‌اکت"
+    },
+    {
+      "title": "هوک‌ها",
+      "path": "/reference/react"
+    },
+    {
+      "title": "کامپوننت‌ها",
+      "path": "/reference/react/components"
+    },
+    {
+      "title": "APIها",
+      "path": "/reference/react/apis"
+    },
+    {
+      "title": "APIهای قدیمی",
+      "path": "/reference/react/legacy"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "API ری‌اکت DOM"
+    },
+    {
+      "title": "کامپوننت‌ها",
+      "path": "/reference/react-dom/components"
+    },
+    {
+      "title": "APIها",
+      "path": "/reference/react-dom"
+    },
+    {
+      "title": "APIهای کلاینت",
+      "path": "/reference/react-dom/client"
+    },
+    {
+      "title": "APIهای سرور",
+      "path": "/reference/react-dom/server"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "API کامپایلر ری‌اکت"
+    },
+    {
+      "title": "پیکربندی",
+      "path": "/reference/react-compiler/configuration"
+    },
+    {
+      "title": "دستورالعمل‌ها",
+      "path": "/reference/react-compiler/directives"
+    },
+    {
+      "title": "کامپایل کتابخانه‌ها",
+      "path": "/reference/react-compiler/compiling-libraries"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "مشارکت کنید"
+    },
+    {
+      "title": "جامعه ری‌اکت",
+      "path": "/community"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "باخبر بمانید"
+    },
+    {
+      "title": "بلاگ ری‌اکت",
+      "path": "/blog"
+    }
+  ]
+}

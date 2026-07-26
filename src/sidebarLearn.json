@@ -1,0 +1,239 @@
+{
+  "title": "یادگیری ری‌اکت",
+  "path": "/learn",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "شروع کنید"
+    },
+    {
+      "title": "شروع سریع",
+      "path": "/learn",
+      "routes": [
+        {
+          "title": "آموزش: دوز (Tic-Tac-Toe)",
+          "path": "/learn/tutorial-tic-tac-toe"
+        },
+        {
+          "title": "تفکر در ری‌اکت",
+          "path": "/learn/thinking-in-react"
+        }
+      ]
+    },
+    {
+      "title": "نصب",
+      "path": "/learn/installation",
+      "routes": [
+        {
+          "title": "ایجاد یک اپلیکیشن ری‌اکت",
+          "path": "/learn/creating-a-react-app"
+        },
+        {
+          "title": "ساخت یک اپلیکیشن ری‌اکت از صفر",
+          "path": "/learn/build-a-react-app-from-scratch"
+        },
+        {
+          "title": "افزودن ری‌اکت به یک پروژه موجود",
+          "path": "/learn/add-react-to-an-existing-project"
+        }
+      ]
+    },
+    {
+      "title": "راه‌اندازی",
+      "path": "/learn/setup",
+      "routes": [
+        {
+          "title": "راه‌اندازی ویرایشگر",
+          "path": "/learn/editor-setup"
+        },
+        {
+          "title": "استفاده از تایپ‌اسکریپت",
+          "path": "/learn/typescript"
+        },
+        {
+          "title": "ابزارهای توسعه‌دهنده ری‌اکت",
+          "path": "/learn/react-developer-tools"
+        }
+      ]
+    },
+    {
+      "title": "کامپایلر ری‌اکت",
+      "path": "/learn/react-compiler",
+      "canary": true,
+      "routes": [
+        {
+          "title": "مقدمه",
+          "path": "/learn/react-compiler/introduction"
+        },
+        {
+          "title": "نصب",
+          "path": "/learn/react-compiler/installation"
+        },
+        {
+          "title": "پذیرش تدریجی",
+          "path": "/learn/react-compiler/incremental-adoption"
+        },
+        {
+          "title": "دیباگ و رفع اشکال",
+          "path": "/learn/react-compiler/debugging"
+        }
+      ]
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "یادگیری ری‌اکت"
+    },
+    {
+      "title": "توصیف رابط کاربری",
+      "tags": [],
+      "path": "/learn/describing-the-ui",
+      "routes": [
+        {
+          "title": "اولین کامپوننت شما",
+          "path": "/learn/your-first-component"
+        },
+        {
+          "title": "ایمپورت و اکسپورت کامپوننت‌ها",
+          "path": "/learn/importing-and-exporting-components"
+        },
+        {
+          "title": "نوشتن مارک‌آپ با JSX",
+          "path": "/learn/writing-markup-with-jsx"
+        },
+        {
+          "title": "جاوااسکریپت در JSX با استفاده از آکولاد‌‌‌‌ها",
+          "path": "/learn/javascript-in-jsx-with-curly-braces"
+        },
+        {
+          "title": "ارسال پراپ‌ها به یک کامپوننت",
+          "path": "/learn/passing-props-to-a-component"
+        },
+        {
+          "title": "رندر شرطی",
+          "path": "/learn/conditional-rendering"
+        },
+        {
+          "title": "رندر کردن لیست‌ها",
+          "path": "/learn/rendering-lists"
+        },
+        {
+          "title": "خالص نگه‌داشتن کامپوننت‌ها",
+          "path": "/learn/keeping-components-pure"
+        },
+        {
+          "title": "رابط کاربری شما به عنوان یک درخت",
+          "path": "/learn/understanding-your-ui-as-a-tree"
+        }
+      ]
+    },
+    {
+      "title": "افزودن تعامل",
+      "path": "/learn/adding-interactivity",
+      "tags": [],
+      "routes": [
+        {
+          "title": "پاسخ به رویدادها",
+          "path": "/learn/responding-to-events"
+        },
+        {
+          "title": "State: حافظهٔ یک کامپوننت",
+          "path": "/learn/state-a-components-memory"
+        },
+        {
+          "title": "رندر و کامیت",
+          "path": "/learn/render-and-commit"
+        },
+        {
+          "title": "State به عنوان یک اسنپ‌شات",
+          "path": "/learn/state-as-a-snapshot"
+        },
+        {
+          "title": "صف‌بندی چند به‌روزرسانی State",
+          "path": "/learn/queueing-a-series-of-state-updates"
+        },
+        {
+          "title": "به‌روزرسانی اشیاء در State",
+          "path": "/learn/updating-objects-in-state"
+        },
+        {
+          "title": "به‌روزرسانی آرایه‌ها در State",
+          "path": "/learn/updating-arrays-in-state"
+        }
+      ]
+    },
+    {
+      "title": "مدیریت State",
+      "path": "/learn/managing-state",
+      "tags": ["intermediate"],
+      "routes": [
+        {
+          "title": "واکنش به ورودی با State",
+          "path": "/learn/reacting-to-input-with-state"
+        },
+        {
+          "title": "انتخاب ساختار State",
+          "path": "/learn/choosing-the-state-structure"
+        },
+        {
+          "title": "اشتراک‌گذاری State بین کامپوننت‌ها",
+          "path": "/learn/sharing-state-between-components"
+        },
+        {
+          "title": "حفظ و ریست کردن State",
+          "path": "/learn/preserving-and-resetting-state"
+        },
+        {
+          "title": "استخراج منطق State به یک Reducer",
+          "path": "/learn/extracting-state-logic-into-a-reducer"
+        },
+        {
+          "title": "ارسال داده در عمق با Context",
+          "path": "/learn/passing-data-deeply-with-context"
+        },
+        {
+          "title": "گسترش با Reducer و Context",
+          "path": "/learn/scaling-up-with-reducer-and-context"
+        }
+      ]
+    },
+    {
+      "title": "راه‌های فرار",
+      "path": "/learn/escape-hatches",
+      "tags": ["advanced"],
+      "routes": [
+        {
+          "title": "ارجاع به مقادیر با Refs",
+          "path": "/learn/referencing-values-with-refs"
+        },
+        {
+          "title": "دست‌کاری DOM با Refs",
+          "path": "/learn/manipulating-the-dom-with-refs"
+        },
+        {
+          "title": "همگام‌سازی با Effects",
+          "path": "/learn/synchronizing-with-effects"
+        },
+        {
+          "title": "شاید به Effect نیاز نداشته باشید",
+          "path": "/learn/you-might-not-need-an-effect"
+        },
+        {
+          "title": "چرخهٔ حیات Effects واکنشی",
+          "path": "/learn/lifecycle-of-reactive-effects"
+        },
+        {
+          "title": "جدا کردن رویدادها از Effects",
+          "path": "/learn/separating-events-from-effects"
+        },
+        {
+          "title": "حذف وابستگی‌های Effect",
+          "path": "/learn/removing-effect-dependencies"
+        },
+        {
+          "title": "بازاستفاده از منطق با هوک‌های سفارشی",
+          "path": "/learn/reusing-logic-with-custom-hooks"
+        }
+      ]
+    }
+  ]
+}
